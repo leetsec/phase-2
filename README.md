@@ -7,4 +7,4 @@
 
 ## Follow the pdfs, if you got any questions, mention me (wbousfir) in the right discord channel 
 
-## Once you addeed your files inside your folder (ex: /network-hack/wbousfir/*),  git add your changes, go the root of this repo  run the script "push.sh" to gitpush everything
+## Once you addeed your files inside your folder (ex: /network-hack/wbousfir/*),  git add your changes, go the root of this repo  run the script "push.sh" to push everything
