@@ -1,4 +1,5 @@
 #!/bin/sh
+echo "Use "git add" to add your files, then run this script"
 echo "Don't push the "gitpush_leetsec.sh" into the git, there is the git token in it and github will remove the token the second it is push to a public repository for security reasons"
 if [ $# -eq 0 ]
 then
