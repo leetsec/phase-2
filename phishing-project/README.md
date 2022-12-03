@@ -1,0 +1,5 @@
+![Page1](https://github.com/leetsec/phase-2/blob/main/phishing-project/.png/phishing1.png?raw=true)
+![Page1](https://github.com/leetsec/phase-2/blob/main/phishing-project/.png/phishing2.png?raw=true)
+![Page1](https://github.com/leetsec/phase-2/blob/main/phishing-project/.png/phishing3.png?raw=true)
+![Page1](https://github.com/leetsec/phase-2/blob/main/phishing-project/.png/phishing4.png?raw=true)
+![Page1](https://github.com/leetsec/phase-2/blob/main/phishing-project/.png/phishing5.png?raw=true)

@@ -1,0 +1,4 @@
+ps |grep explorer
+getpid
+migrate explorerPID
+
